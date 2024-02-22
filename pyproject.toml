@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SimpleMLP"
+version = "0.0.1"
+authors = [
+  { name="Freeze"},
+]
+description = "A simple/basic/test"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/TheFreezeBee/SimpleMLP"
+
+[pypi]
+  username = __token__
+  password = pypi-AgEIcHlwaS5vcmcCJGFlYWFlZDYwLWUwNmUtNDIzYy05NGQ5LTY3ZjM4MGY4ZjEyMwACKlszLCJmNDU3MjY3ZS0yYzE1LTQzY2YtOTJhMi02N2RiZTEwMzgwODQiXQAABiAs9aJpfCaofj0MiGN8RcJTTqDmSBkpcR2CND_bULsW2g

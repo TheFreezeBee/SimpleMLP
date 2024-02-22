@@ -1,4 +1,4 @@
-from network import *
+from src.package.network import *
 
 print('\n-------------------------------------------------------------------------------\n ')
 

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/SimpleMLP.egg-info/PKG-INFO
+src/SimpleMLP.egg-info/SOURCES.txt
+src/SimpleMLP.egg-info/dependency_links.txt
+src/SimpleMLP.egg-info/top_level.txt
+src/package/__init__.py
+src/package/network.py
+src/package/value.py
+tests/test.py
