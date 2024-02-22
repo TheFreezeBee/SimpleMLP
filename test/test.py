@@ -31,12 +31,3 @@ print(l)
 
 
 print('\n-------------------------------------------------------------------------------\n ')
-
-
-touch LICENSE
-touch pyproject.toml
-touch README.md
-mkdir src/package
-touch src/package/__init__.py
-touch src/package/example.py
-mkdir tests
